@@ -17,12 +17,14 @@ from django.conf.urls import url, include
 from django.contrib import admin
 from django.conf import settings
 from django.conf.urls.static import static
+from app.mascota.views import VueTemplate
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^mascota/', include('app.mascota.urls', namespace="mascota")),
     url(r'^adopcion/', include('app.adopcion.urls', namespace="adopcion")),
     url(r'^api/', include('app.API.urls', namespace="apis")),
+    url(r'^vue/', VueTemplate.as_view()),
 ]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
 if settings.DEBUG:

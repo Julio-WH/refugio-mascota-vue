@@ -12,7 +12,7 @@ from app.API.view.view_generic import MascotaListGeneric, MascotaDetailsGeneric,
 from app.API.view.view_set import MascotaViewset
 from app.mascota.forms import MascotaForm, MascotaApiForm
 from app.mascota.models import Mascota
-from django.views.generic import ListView, CreateView, UpdateView, DeleteView
+from django.views.generic import ListView, CreateView, UpdateView, DeleteView, TemplateView
 from django.core.urlresolvers import reverse_lazy
 
 # Rest Framework
@@ -63,6 +63,8 @@ def mascota_delete(request, id_mascota):
 
 
 # ----------------class-----------------------------------------------
+class VueTemplate(TemplateView):
+    template_name = "base/template_vue.html"
 class MascotaList(ListView):
     model = Mascota
     template_name = 'mascota/mascota_list.html'

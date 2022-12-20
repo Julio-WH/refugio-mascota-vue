@@ -11,8 +11,8 @@ from app.mascota.models import Mascota
 
 class ListMascotas(APIView):
 
-    authentication_classes = [authentication.SessionAuthentication]
-    permission_classes = [permissions.IsAdminUser]
+    # authentication_classes = [authentication.SessionAuthentication]
+    # permission_classes = [permissions.IsAdminUser]
 
     def get(self, request):
         mascotas = Mascota.objects.all().order_by("-fecha_rescate")
@@ -29,8 +29,8 @@ class ListMascotas(APIView):
 
 class DetalleMascota(APIView):
 
-    authentication_classes = [authentication.SessionAuthentication]
-    permission_classes = [permissions.IsAdminUser]
+    # authentication_classes = [authentication.SessionAuthentication]
+    # permission_classes = [permissions.IsAdminUser]
 
     def get_object(self, pk):
         try:
@@ -57,8 +57,8 @@ class DetalleMascota(APIView):
         return Response(status=status.HTTP_204_NO_CONTENT)
 
 class MascotaPersonaList(APIView):
-    authentication_classes = [authentication.SessionAuthentication]
-    permission_classes = [permissions.IsAdminUser]
+    # authentication_classes = [authentication.SessionAuthentication]
+    # permission_classes = [permissions.IsAdminUser]
 
     def get_object(self, pk):
         try:

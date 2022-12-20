@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'app.adopcion',
     'app.mascota',
+    'webpack_loader',
 ]
 
 MIDDLEWARE_CLASSES = [
@@ -126,6 +127,21 @@ STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)
 
 MEDIA_URL='/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, "media").replace('\\','/')
+VUE_DIR =os.path.join(BASE_DIR + '/vue3')
+
+WEBPACK_LOADER = {
+    'DEFAULT': {
+        'CACHE': not DEBUG,
+        'BUNDLE_DIR_NAME': 'webpack_bundles/',
+
+        'STATS_FILE': VUE_DIR +'/webpack-stats.json',
+
+        'POLL_INTERVAL': 0.1,
+        'TIMEOUT': None,
+        'IGNORE': [r'.+\.hot-update.js', r'.+\.map'],
+        'LOADER_CLASS': 'webpack_loader.loader.WebpackLoader',
+    }
+}
 
 #debug_toolbar settings
 if DEBUG:

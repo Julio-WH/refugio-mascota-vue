@@ -1,0 +1,8 @@
+{
+  "status": "error",
+  "assets": {},
+  "chunks": {},
+  "publicPath": "http://localhost:8080/",
+  "error": "ModuleNotFoundError",
+  "message": "Module not found: Error: Can't resolve '/home/julio/Documentos/github/Refugio-mascota-api/vue3/src/main.js' in '/home/julio/Documentos/github/Refugio-mascota-api/vue3'"
+}
