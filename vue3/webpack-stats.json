@@ -21,85 +21,1415 @@
       "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/js/main.js",
       "publicPath": "http://localhost:8080/js/main.js"
     },
-    "main.10e3ed200c6848aa.hot-update.js": {
-      "name": "main.10e3ed200c6848aa.hot-update.js",
-      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.10e3ed200c6848aa.hot-update.js",
-      "publicPath": "http://localhost:8080/main.10e3ed200c6848aa.hot-update.js"
+    "main.00f17e89b5831571.hot-update.js": {
+      "name": "main.00f17e89b5831571.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.00f17e89b5831571.hot-update.js",
+      "publicPath": "http://localhost:8080/main.00f17e89b5831571.hot-update.js"
     },
-    "main.10e3ed200c6848aa.hot-update.json": {
-      "name": "main.10e3ed200c6848aa.hot-update.json",
-      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.10e3ed200c6848aa.hot-update.json",
-      "publicPath": "http://localhost:8080/main.10e3ed200c6848aa.hot-update.json"
+    "main.00f17e89b5831571.hot-update.json": {
+      "name": "main.00f17e89b5831571.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.00f17e89b5831571.hot-update.json",
+      "publicPath": "http://localhost:8080/main.00f17e89b5831571.hot-update.json"
     },
-    "main.18bb4443b4d82ee1.hot-update.js": {
-      "name": "main.18bb4443b4d82ee1.hot-update.js",
-      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.18bb4443b4d82ee1.hot-update.js",
-      "publicPath": "http://localhost:8080/main.18bb4443b4d82ee1.hot-update.js"
+    "main.0402d2f7d195d936.hot-update.js": {
+      "name": "main.0402d2f7d195d936.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.0402d2f7d195d936.hot-update.js",
+      "publicPath": "http://localhost:8080/main.0402d2f7d195d936.hot-update.js"
     },
-    "main.18bb4443b4d82ee1.hot-update.json": {
-      "name": "main.18bb4443b4d82ee1.hot-update.json",
-      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.18bb4443b4d82ee1.hot-update.json",
-      "publicPath": "http://localhost:8080/main.18bb4443b4d82ee1.hot-update.json"
+    "main.0402d2f7d195d936.hot-update.json": {
+      "name": "main.0402d2f7d195d936.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.0402d2f7d195d936.hot-update.json",
+      "publicPath": "http://localhost:8080/main.0402d2f7d195d936.hot-update.json"
     },
-    "main.336a98d4cdf46116.hot-update.js": {
-      "name": "main.336a98d4cdf46116.hot-update.js",
-      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.336a98d4cdf46116.hot-update.js",
-      "publicPath": "http://localhost:8080/main.336a98d4cdf46116.hot-update.js"
+    "main.05eb9b0685778b98.hot-update.js": {
+      "name": "main.05eb9b0685778b98.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.05eb9b0685778b98.hot-update.js",
+      "publicPath": "http://localhost:8080/main.05eb9b0685778b98.hot-update.js"
     },
-    "main.336a98d4cdf46116.hot-update.json": {
-      "name": "main.336a98d4cdf46116.hot-update.json",
-      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.336a98d4cdf46116.hot-update.json",
-      "publicPath": "http://localhost:8080/main.336a98d4cdf46116.hot-update.json"
+    "main.05eb9b0685778b98.hot-update.json": {
+      "name": "main.05eb9b0685778b98.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.05eb9b0685778b98.hot-update.json",
+      "publicPath": "http://localhost:8080/main.05eb9b0685778b98.hot-update.json"
     },
-    "main.5a2e55d990c7fdb1.hot-update.js": {
-      "name": "main.5a2e55d990c7fdb1.hot-update.js",
-      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.5a2e55d990c7fdb1.hot-update.js",
-      "publicPath": "http://localhost:8080/main.5a2e55d990c7fdb1.hot-update.js"
+    "main.064619eeac3bd674.hot-update.js": {
+      "name": "main.064619eeac3bd674.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.064619eeac3bd674.hot-update.js",
+      "publicPath": "http://localhost:8080/main.064619eeac3bd674.hot-update.js"
     },
-    "main.5a2e55d990c7fdb1.hot-update.json": {
-      "name": "main.5a2e55d990c7fdb1.hot-update.json",
-      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.5a2e55d990c7fdb1.hot-update.json",
-      "publicPath": "http://localhost:8080/main.5a2e55d990c7fdb1.hot-update.json"
+    "main.064619eeac3bd674.hot-update.json": {
+      "name": "main.064619eeac3bd674.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.064619eeac3bd674.hot-update.json",
+      "publicPath": "http://localhost:8080/main.064619eeac3bd674.hot-update.json"
     },
-    "main.b10ea360311b52a4.hot-update.js": {
-      "name": "main.b10ea360311b52a4.hot-update.js",
-      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b10ea360311b52a4.hot-update.js",
-      "publicPath": "http://localhost:8080/main.b10ea360311b52a4.hot-update.js"
+    "main.07e06ddb9967599f.hot-update.js": {
+      "name": "main.07e06ddb9967599f.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.07e06ddb9967599f.hot-update.js",
+      "publicPath": "http://localhost:8080/main.07e06ddb9967599f.hot-update.js"
     },
-    "main.b10ea360311b52a4.hot-update.json": {
-      "name": "main.b10ea360311b52a4.hot-update.json",
-      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b10ea360311b52a4.hot-update.json",
-      "publicPath": "http://localhost:8080/main.b10ea360311b52a4.hot-update.json"
+    "main.07e06ddb9967599f.hot-update.json": {
+      "name": "main.07e06ddb9967599f.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.07e06ddb9967599f.hot-update.json",
+      "publicPath": "http://localhost:8080/main.07e06ddb9967599f.hot-update.json"
     },
-    "main.b695278074a7399f.hot-update.js": {
-      "name": "main.b695278074a7399f.hot-update.js",
-      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b695278074a7399f.hot-update.js",
-      "publicPath": "http://localhost:8080/main.b695278074a7399f.hot-update.js"
+    "main.082882653a7ec40d.hot-update.js": {
+      "name": "main.082882653a7ec40d.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.082882653a7ec40d.hot-update.js",
+      "publicPath": "http://localhost:8080/main.082882653a7ec40d.hot-update.js"
     },
-    "main.b695278074a7399f.hot-update.json": {
-      "name": "main.b695278074a7399f.hot-update.json",
-      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b695278074a7399f.hot-update.json",
-      "publicPath": "http://localhost:8080/main.b695278074a7399f.hot-update.json"
+    "main.082882653a7ec40d.hot-update.json": {
+      "name": "main.082882653a7ec40d.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.082882653a7ec40d.hot-update.json",
+      "publicPath": "http://localhost:8080/main.082882653a7ec40d.hot-update.json"
     },
-    "main.d8f0dbdc02998ed3.hot-update.js": {
-      "name": "main.d8f0dbdc02998ed3.hot-update.js",
-      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.d8f0dbdc02998ed3.hot-update.js",
-      "publicPath": "http://localhost:8080/main.d8f0dbdc02998ed3.hot-update.js"
+    "main.083e45613b583695.hot-update.js": {
+      "name": "main.083e45613b583695.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.083e45613b583695.hot-update.js",
+      "publicPath": "http://localhost:8080/main.083e45613b583695.hot-update.js"
     },
-    "main.d8f0dbdc02998ed3.hot-update.json": {
-      "name": "main.d8f0dbdc02998ed3.hot-update.json",
-      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.d8f0dbdc02998ed3.hot-update.json",
-      "publicPath": "http://localhost:8080/main.d8f0dbdc02998ed3.hot-update.json"
+    "main.083e45613b583695.hot-update.json": {
+      "name": "main.083e45613b583695.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.083e45613b583695.hot-update.json",
+      "publicPath": "http://localhost:8080/main.083e45613b583695.hot-update.json"
     },
-    "main.fa75d384b14a2814.hot-update.js": {
-      "name": "main.fa75d384b14a2814.hot-update.js",
-      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.fa75d384b14a2814.hot-update.js",
-      "publicPath": "http://localhost:8080/main.fa75d384b14a2814.hot-update.js"
+    "main.0e7ce29c8c181c1f.hot-update.js": {
+      "name": "main.0e7ce29c8c181c1f.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.0e7ce29c8c181c1f.hot-update.js",
+      "publicPath": "http://localhost:8080/main.0e7ce29c8c181c1f.hot-update.js"
     },
-    "main.fa75d384b14a2814.hot-update.json": {
-      "name": "main.fa75d384b14a2814.hot-update.json",
-      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.fa75d384b14a2814.hot-update.json",
-      "publicPath": "http://localhost:8080/main.fa75d384b14a2814.hot-update.json"
+    "main.0e7ce29c8c181c1f.hot-update.json": {
+      "name": "main.0e7ce29c8c181c1f.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.0e7ce29c8c181c1f.hot-update.json",
+      "publicPath": "http://localhost:8080/main.0e7ce29c8c181c1f.hot-update.json"
+    },
+    "main.0facc2258b010f36.hot-update.js": {
+      "name": "main.0facc2258b010f36.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.0facc2258b010f36.hot-update.js",
+      "publicPath": "http://localhost:8080/main.0facc2258b010f36.hot-update.js"
+    },
+    "main.0facc2258b010f36.hot-update.json": {
+      "name": "main.0facc2258b010f36.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.0facc2258b010f36.hot-update.json",
+      "publicPath": "http://localhost:8080/main.0facc2258b010f36.hot-update.json"
+    },
+    "main.10722d6a7a110dc7.hot-update.js": {
+      "name": "main.10722d6a7a110dc7.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.10722d6a7a110dc7.hot-update.js",
+      "publicPath": "http://localhost:8080/main.10722d6a7a110dc7.hot-update.js"
+    },
+    "main.10722d6a7a110dc7.hot-update.json": {
+      "name": "main.10722d6a7a110dc7.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.10722d6a7a110dc7.hot-update.json",
+      "publicPath": "http://localhost:8080/main.10722d6a7a110dc7.hot-update.json"
+    },
+    "main.132f07cc5dae5898.hot-update.js": {
+      "name": "main.132f07cc5dae5898.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.132f07cc5dae5898.hot-update.js",
+      "publicPath": "http://localhost:8080/main.132f07cc5dae5898.hot-update.js"
+    },
+    "main.132f07cc5dae5898.hot-update.json": {
+      "name": "main.132f07cc5dae5898.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.132f07cc5dae5898.hot-update.json",
+      "publicPath": "http://localhost:8080/main.132f07cc5dae5898.hot-update.json"
+    },
+    "main.14756c9b52928e46.hot-update.js": {
+      "name": "main.14756c9b52928e46.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.14756c9b52928e46.hot-update.js",
+      "publicPath": "http://localhost:8080/main.14756c9b52928e46.hot-update.js"
+    },
+    "main.14756c9b52928e46.hot-update.json": {
+      "name": "main.14756c9b52928e46.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.14756c9b52928e46.hot-update.json",
+      "publicPath": "http://localhost:8080/main.14756c9b52928e46.hot-update.json"
+    },
+    "main.1689f6375fcd0440.hot-update.js": {
+      "name": "main.1689f6375fcd0440.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.1689f6375fcd0440.hot-update.js",
+      "publicPath": "http://localhost:8080/main.1689f6375fcd0440.hot-update.js"
+    },
+    "main.1689f6375fcd0440.hot-update.json": {
+      "name": "main.1689f6375fcd0440.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.1689f6375fcd0440.hot-update.json",
+      "publicPath": "http://localhost:8080/main.1689f6375fcd0440.hot-update.json"
+    },
+    "main.19a23e08300e3469.hot-update.js": {
+      "name": "main.19a23e08300e3469.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.19a23e08300e3469.hot-update.js",
+      "publicPath": "http://localhost:8080/main.19a23e08300e3469.hot-update.js"
+    },
+    "main.19a23e08300e3469.hot-update.json": {
+      "name": "main.19a23e08300e3469.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.19a23e08300e3469.hot-update.json",
+      "publicPath": "http://localhost:8080/main.19a23e08300e3469.hot-update.json"
+    },
+    "main.1a1ed5964bb4fb80.hot-update.js": {
+      "name": "main.1a1ed5964bb4fb80.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.1a1ed5964bb4fb80.hot-update.js",
+      "publicPath": "http://localhost:8080/main.1a1ed5964bb4fb80.hot-update.js"
+    },
+    "main.1a1ed5964bb4fb80.hot-update.json": {
+      "name": "main.1a1ed5964bb4fb80.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.1a1ed5964bb4fb80.hot-update.json",
+      "publicPath": "http://localhost:8080/main.1a1ed5964bb4fb80.hot-update.json"
+    },
+    "main.1ac53380511cf835.hot-update.js": {
+      "name": "main.1ac53380511cf835.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.1ac53380511cf835.hot-update.js",
+      "publicPath": "http://localhost:8080/main.1ac53380511cf835.hot-update.js"
+    },
+    "main.1ac53380511cf835.hot-update.json": {
+      "name": "main.1ac53380511cf835.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.1ac53380511cf835.hot-update.json",
+      "publicPath": "http://localhost:8080/main.1ac53380511cf835.hot-update.json"
+    },
+    "main.1af1363c43338346.hot-update.js": {
+      "name": "main.1af1363c43338346.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.1af1363c43338346.hot-update.js",
+      "publicPath": "http://localhost:8080/main.1af1363c43338346.hot-update.js"
+    },
+    "main.1af1363c43338346.hot-update.json": {
+      "name": "main.1af1363c43338346.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.1af1363c43338346.hot-update.json",
+      "publicPath": "http://localhost:8080/main.1af1363c43338346.hot-update.json"
+    },
+    "main.1bc843f31c456bf9.hot-update.js": {
+      "name": "main.1bc843f31c456bf9.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.1bc843f31c456bf9.hot-update.js",
+      "publicPath": "http://localhost:8080/main.1bc843f31c456bf9.hot-update.js"
+    },
+    "main.1bc843f31c456bf9.hot-update.json": {
+      "name": "main.1bc843f31c456bf9.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.1bc843f31c456bf9.hot-update.json",
+      "publicPath": "http://localhost:8080/main.1bc843f31c456bf9.hot-update.json"
+    },
+    "main.1c9163d255372fc9.hot-update.js": {
+      "name": "main.1c9163d255372fc9.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.1c9163d255372fc9.hot-update.js",
+      "publicPath": "http://localhost:8080/main.1c9163d255372fc9.hot-update.js"
+    },
+    "main.1c9163d255372fc9.hot-update.json": {
+      "name": "main.1c9163d255372fc9.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.1c9163d255372fc9.hot-update.json",
+      "publicPath": "http://localhost:8080/main.1c9163d255372fc9.hot-update.json"
+    },
+    "main.1d69587985a87f2f.hot-update.js": {
+      "name": "main.1d69587985a87f2f.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.1d69587985a87f2f.hot-update.js",
+      "publicPath": "http://localhost:8080/main.1d69587985a87f2f.hot-update.js"
+    },
+    "main.1d69587985a87f2f.hot-update.json": {
+      "name": "main.1d69587985a87f2f.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.1d69587985a87f2f.hot-update.json",
+      "publicPath": "http://localhost:8080/main.1d69587985a87f2f.hot-update.json"
+    },
+    "main.1e908d15926b143c.hot-update.js": {
+      "name": "main.1e908d15926b143c.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.1e908d15926b143c.hot-update.js",
+      "publicPath": "http://localhost:8080/main.1e908d15926b143c.hot-update.js"
+    },
+    "main.1e908d15926b143c.hot-update.json": {
+      "name": "main.1e908d15926b143c.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.1e908d15926b143c.hot-update.json",
+      "publicPath": "http://localhost:8080/main.1e908d15926b143c.hot-update.json"
+    },
+    "main.1fac87764074c76c.hot-update.js": {
+      "name": "main.1fac87764074c76c.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.1fac87764074c76c.hot-update.js",
+      "publicPath": "http://localhost:8080/main.1fac87764074c76c.hot-update.js"
+    },
+    "main.1fac87764074c76c.hot-update.json": {
+      "name": "main.1fac87764074c76c.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.1fac87764074c76c.hot-update.json",
+      "publicPath": "http://localhost:8080/main.1fac87764074c76c.hot-update.json"
+    },
+    "main.2004d48aa908292a.hot-update.js": {
+      "name": "main.2004d48aa908292a.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.2004d48aa908292a.hot-update.js",
+      "publicPath": "http://localhost:8080/main.2004d48aa908292a.hot-update.js"
+    },
+    "main.2004d48aa908292a.hot-update.json": {
+      "name": "main.2004d48aa908292a.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.2004d48aa908292a.hot-update.json",
+      "publicPath": "http://localhost:8080/main.2004d48aa908292a.hot-update.json"
+    },
+    "main.22721be6ffe21bd8.hot-update.js": {
+      "name": "main.22721be6ffe21bd8.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.22721be6ffe21bd8.hot-update.js",
+      "publicPath": "http://localhost:8080/main.22721be6ffe21bd8.hot-update.js"
+    },
+    "main.22721be6ffe21bd8.hot-update.json": {
+      "name": "main.22721be6ffe21bd8.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.22721be6ffe21bd8.hot-update.json",
+      "publicPath": "http://localhost:8080/main.22721be6ffe21bd8.hot-update.json"
+    },
+    "main.23120e95c0fe5608.hot-update.js": {
+      "name": "main.23120e95c0fe5608.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.23120e95c0fe5608.hot-update.js",
+      "publicPath": "http://localhost:8080/main.23120e95c0fe5608.hot-update.js"
+    },
+    "main.23120e95c0fe5608.hot-update.json": {
+      "name": "main.23120e95c0fe5608.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.23120e95c0fe5608.hot-update.json",
+      "publicPath": "http://localhost:8080/main.23120e95c0fe5608.hot-update.json"
+    },
+    "main.2502395571e3f1a6.hot-update.js": {
+      "name": "main.2502395571e3f1a6.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.2502395571e3f1a6.hot-update.js",
+      "publicPath": "http://localhost:8080/main.2502395571e3f1a6.hot-update.js"
+    },
+    "main.2502395571e3f1a6.hot-update.json": {
+      "name": "main.2502395571e3f1a6.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.2502395571e3f1a6.hot-update.json",
+      "publicPath": "http://localhost:8080/main.2502395571e3f1a6.hot-update.json"
+    },
+    "main.2571cd1da3b3f03e.hot-update.js": {
+      "name": "main.2571cd1da3b3f03e.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.2571cd1da3b3f03e.hot-update.js",
+      "publicPath": "http://localhost:8080/main.2571cd1da3b3f03e.hot-update.js"
+    },
+    "main.2571cd1da3b3f03e.hot-update.json": {
+      "name": "main.2571cd1da3b3f03e.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.2571cd1da3b3f03e.hot-update.json",
+      "publicPath": "http://localhost:8080/main.2571cd1da3b3f03e.hot-update.json"
+    },
+    "main.25c77f7655fec88a.hot-update.js": {
+      "name": "main.25c77f7655fec88a.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.25c77f7655fec88a.hot-update.js",
+      "publicPath": "http://localhost:8080/main.25c77f7655fec88a.hot-update.js"
+    },
+    "main.25c77f7655fec88a.hot-update.json": {
+      "name": "main.25c77f7655fec88a.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.25c77f7655fec88a.hot-update.json",
+      "publicPath": "http://localhost:8080/main.25c77f7655fec88a.hot-update.json"
+    },
+    "main.27cb9ce944402a5d.hot-update.js": {
+      "name": "main.27cb9ce944402a5d.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.27cb9ce944402a5d.hot-update.js",
+      "publicPath": "http://localhost:8080/main.27cb9ce944402a5d.hot-update.js"
+    },
+    "main.27cb9ce944402a5d.hot-update.json": {
+      "name": "main.27cb9ce944402a5d.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.27cb9ce944402a5d.hot-update.json",
+      "publicPath": "http://localhost:8080/main.27cb9ce944402a5d.hot-update.json"
+    },
+    "main.288bda1d161ea1c9.hot-update.js": {
+      "name": "main.288bda1d161ea1c9.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.288bda1d161ea1c9.hot-update.js",
+      "publicPath": "http://localhost:8080/main.288bda1d161ea1c9.hot-update.js"
+    },
+    "main.288bda1d161ea1c9.hot-update.json": {
+      "name": "main.288bda1d161ea1c9.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.288bda1d161ea1c9.hot-update.json",
+      "publicPath": "http://localhost:8080/main.288bda1d161ea1c9.hot-update.json"
+    },
+    "main.29cc088298fca487.hot-update.js": {
+      "name": "main.29cc088298fca487.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.29cc088298fca487.hot-update.js",
+      "publicPath": "http://localhost:8080/main.29cc088298fca487.hot-update.js"
+    },
+    "main.29cc088298fca487.hot-update.json": {
+      "name": "main.29cc088298fca487.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.29cc088298fca487.hot-update.json",
+      "publicPath": "http://localhost:8080/main.29cc088298fca487.hot-update.json"
+    },
+    "main.2e010f69748df3be.hot-update.js": {
+      "name": "main.2e010f69748df3be.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.2e010f69748df3be.hot-update.js",
+      "publicPath": "http://localhost:8080/main.2e010f69748df3be.hot-update.js"
+    },
+    "main.2e010f69748df3be.hot-update.json": {
+      "name": "main.2e010f69748df3be.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.2e010f69748df3be.hot-update.json",
+      "publicPath": "http://localhost:8080/main.2e010f69748df3be.hot-update.json"
+    },
+    "main.2e664a498eb215ba.hot-update.js": {
+      "name": "main.2e664a498eb215ba.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.2e664a498eb215ba.hot-update.js",
+      "publicPath": "http://localhost:8080/main.2e664a498eb215ba.hot-update.js"
+    },
+    "main.2e664a498eb215ba.hot-update.json": {
+      "name": "main.2e664a498eb215ba.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.2e664a498eb215ba.hot-update.json",
+      "publicPath": "http://localhost:8080/main.2e664a498eb215ba.hot-update.json"
+    },
+    "main.2fa0b7c4fe028171.hot-update.js": {
+      "name": "main.2fa0b7c4fe028171.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.2fa0b7c4fe028171.hot-update.js",
+      "publicPath": "http://localhost:8080/main.2fa0b7c4fe028171.hot-update.js"
+    },
+    "main.2fa0b7c4fe028171.hot-update.json": {
+      "name": "main.2fa0b7c4fe028171.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.2fa0b7c4fe028171.hot-update.json",
+      "publicPath": "http://localhost:8080/main.2fa0b7c4fe028171.hot-update.json"
+    },
+    "main.313fb758f9353904.hot-update.js": {
+      "name": "main.313fb758f9353904.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.313fb758f9353904.hot-update.js",
+      "publicPath": "http://localhost:8080/main.313fb758f9353904.hot-update.js"
+    },
+    "main.313fb758f9353904.hot-update.json": {
+      "name": "main.313fb758f9353904.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.313fb758f9353904.hot-update.json",
+      "publicPath": "http://localhost:8080/main.313fb758f9353904.hot-update.json"
+    },
+    "main.32e6747548f9119b.hot-update.js": {
+      "name": "main.32e6747548f9119b.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.32e6747548f9119b.hot-update.js",
+      "publicPath": "http://localhost:8080/main.32e6747548f9119b.hot-update.js"
+    },
+    "main.32e6747548f9119b.hot-update.json": {
+      "name": "main.32e6747548f9119b.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.32e6747548f9119b.hot-update.json",
+      "publicPath": "http://localhost:8080/main.32e6747548f9119b.hot-update.json"
+    },
+    "main.33bc60349103d468.hot-update.js": {
+      "name": "main.33bc60349103d468.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.33bc60349103d468.hot-update.js",
+      "publicPath": "http://localhost:8080/main.33bc60349103d468.hot-update.js"
+    },
+    "main.33bc60349103d468.hot-update.json": {
+      "name": "main.33bc60349103d468.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.33bc60349103d468.hot-update.json",
+      "publicPath": "http://localhost:8080/main.33bc60349103d468.hot-update.json"
+    },
+    "main.3474899957dfdadd.hot-update.js": {
+      "name": "main.3474899957dfdadd.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.3474899957dfdadd.hot-update.js",
+      "publicPath": "http://localhost:8080/main.3474899957dfdadd.hot-update.js"
+    },
+    "main.3474899957dfdadd.hot-update.json": {
+      "name": "main.3474899957dfdadd.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.3474899957dfdadd.hot-update.json",
+      "publicPath": "http://localhost:8080/main.3474899957dfdadd.hot-update.json"
+    },
+    "main.35fe80346f335f00.hot-update.js": {
+      "name": "main.35fe80346f335f00.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.35fe80346f335f00.hot-update.js",
+      "publicPath": "http://localhost:8080/main.35fe80346f335f00.hot-update.js"
+    },
+    "main.35fe80346f335f00.hot-update.json": {
+      "name": "main.35fe80346f335f00.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.35fe80346f335f00.hot-update.json",
+      "publicPath": "http://localhost:8080/main.35fe80346f335f00.hot-update.json"
+    },
+    "main.3618cc465cb8c7cc.hot-update.js": {
+      "name": "main.3618cc465cb8c7cc.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.3618cc465cb8c7cc.hot-update.js",
+      "publicPath": "http://localhost:8080/main.3618cc465cb8c7cc.hot-update.js"
+    },
+    "main.3618cc465cb8c7cc.hot-update.json": {
+      "name": "main.3618cc465cb8c7cc.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.3618cc465cb8c7cc.hot-update.json",
+      "publicPath": "http://localhost:8080/main.3618cc465cb8c7cc.hot-update.json"
+    },
+    "main.3780b03f06dc44b3.hot-update.js": {
+      "name": "main.3780b03f06dc44b3.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.3780b03f06dc44b3.hot-update.js",
+      "publicPath": "http://localhost:8080/main.3780b03f06dc44b3.hot-update.js"
+    },
+    "main.3780b03f06dc44b3.hot-update.json": {
+      "name": "main.3780b03f06dc44b3.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.3780b03f06dc44b3.hot-update.json",
+      "publicPath": "http://localhost:8080/main.3780b03f06dc44b3.hot-update.json"
+    },
+    "main.3c2c014db2853cc9.hot-update.js": {
+      "name": "main.3c2c014db2853cc9.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.3c2c014db2853cc9.hot-update.js",
+      "publicPath": "http://localhost:8080/main.3c2c014db2853cc9.hot-update.js"
+    },
+    "main.3c2c014db2853cc9.hot-update.json": {
+      "name": "main.3c2c014db2853cc9.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.3c2c014db2853cc9.hot-update.json",
+      "publicPath": "http://localhost:8080/main.3c2c014db2853cc9.hot-update.json"
+    },
+    "main.3c6a0eed9511284c.hot-update.js": {
+      "name": "main.3c6a0eed9511284c.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.3c6a0eed9511284c.hot-update.js",
+      "publicPath": "http://localhost:8080/main.3c6a0eed9511284c.hot-update.js"
+    },
+    "main.3c6a0eed9511284c.hot-update.json": {
+      "name": "main.3c6a0eed9511284c.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.3c6a0eed9511284c.hot-update.json",
+      "publicPath": "http://localhost:8080/main.3c6a0eed9511284c.hot-update.json"
+    },
+    "main.4078a787116b8e0c.hot-update.js": {
+      "name": "main.4078a787116b8e0c.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.4078a787116b8e0c.hot-update.js",
+      "publicPath": "http://localhost:8080/main.4078a787116b8e0c.hot-update.js"
+    },
+    "main.4078a787116b8e0c.hot-update.json": {
+      "name": "main.4078a787116b8e0c.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.4078a787116b8e0c.hot-update.json",
+      "publicPath": "http://localhost:8080/main.4078a787116b8e0c.hot-update.json"
+    },
+    "main.414aac2eaf7715c2.hot-update.js": {
+      "name": "main.414aac2eaf7715c2.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.414aac2eaf7715c2.hot-update.js",
+      "publicPath": "http://localhost:8080/main.414aac2eaf7715c2.hot-update.js"
+    },
+    "main.414aac2eaf7715c2.hot-update.json": {
+      "name": "main.414aac2eaf7715c2.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.414aac2eaf7715c2.hot-update.json",
+      "publicPath": "http://localhost:8080/main.414aac2eaf7715c2.hot-update.json"
+    },
+    "main.43bf6fca512e051d.hot-update.js": {
+      "name": "main.43bf6fca512e051d.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.43bf6fca512e051d.hot-update.js",
+      "publicPath": "http://localhost:8080/main.43bf6fca512e051d.hot-update.js"
+    },
+    "main.43bf6fca512e051d.hot-update.json": {
+      "name": "main.43bf6fca512e051d.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.43bf6fca512e051d.hot-update.json",
+      "publicPath": "http://localhost:8080/main.43bf6fca512e051d.hot-update.json"
+    },
+    "main.43e48a53d31d167c.hot-update.js": {
+      "name": "main.43e48a53d31d167c.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.43e48a53d31d167c.hot-update.js",
+      "publicPath": "http://localhost:8080/main.43e48a53d31d167c.hot-update.js"
+    },
+    "main.43e48a53d31d167c.hot-update.json": {
+      "name": "main.43e48a53d31d167c.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.43e48a53d31d167c.hot-update.json",
+      "publicPath": "http://localhost:8080/main.43e48a53d31d167c.hot-update.json"
+    },
+    "main.46a509d7acdd9d83.hot-update.js": {
+      "name": "main.46a509d7acdd9d83.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.46a509d7acdd9d83.hot-update.js",
+      "publicPath": "http://localhost:8080/main.46a509d7acdd9d83.hot-update.js"
+    },
+    "main.46a509d7acdd9d83.hot-update.json": {
+      "name": "main.46a509d7acdd9d83.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.46a509d7acdd9d83.hot-update.json",
+      "publicPath": "http://localhost:8080/main.46a509d7acdd9d83.hot-update.json"
+    },
+    "main.46d6567853be0808.hot-update.js": {
+      "name": "main.46d6567853be0808.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.46d6567853be0808.hot-update.js",
+      "publicPath": "http://localhost:8080/main.46d6567853be0808.hot-update.js"
+    },
+    "main.46d6567853be0808.hot-update.json": {
+      "name": "main.46d6567853be0808.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.46d6567853be0808.hot-update.json",
+      "publicPath": "http://localhost:8080/main.46d6567853be0808.hot-update.json"
+    },
+    "main.487f3447adf7db93.hot-update.js": {
+      "name": "main.487f3447adf7db93.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.487f3447adf7db93.hot-update.js",
+      "publicPath": "http://localhost:8080/main.487f3447adf7db93.hot-update.js"
+    },
+    "main.487f3447adf7db93.hot-update.json": {
+      "name": "main.487f3447adf7db93.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.487f3447adf7db93.hot-update.json",
+      "publicPath": "http://localhost:8080/main.487f3447adf7db93.hot-update.json"
+    },
+    "main.4c1dd059d14593a0.hot-update.js": {
+      "name": "main.4c1dd059d14593a0.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.4c1dd059d14593a0.hot-update.js",
+      "publicPath": "http://localhost:8080/main.4c1dd059d14593a0.hot-update.js"
+    },
+    "main.4c1dd059d14593a0.hot-update.json": {
+      "name": "main.4c1dd059d14593a0.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.4c1dd059d14593a0.hot-update.json",
+      "publicPath": "http://localhost:8080/main.4c1dd059d14593a0.hot-update.json"
+    },
+    "main.4d95a10ebaa6f718.hot-update.js": {
+      "name": "main.4d95a10ebaa6f718.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.4d95a10ebaa6f718.hot-update.js",
+      "publicPath": "http://localhost:8080/main.4d95a10ebaa6f718.hot-update.js"
+    },
+    "main.4d95a10ebaa6f718.hot-update.json": {
+      "name": "main.4d95a10ebaa6f718.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.4d95a10ebaa6f718.hot-update.json",
+      "publicPath": "http://localhost:8080/main.4d95a10ebaa6f718.hot-update.json"
+    },
+    "main.54d6e6df05d831eb.hot-update.js": {
+      "name": "main.54d6e6df05d831eb.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.54d6e6df05d831eb.hot-update.js",
+      "publicPath": "http://localhost:8080/main.54d6e6df05d831eb.hot-update.js"
+    },
+    "main.54d6e6df05d831eb.hot-update.json": {
+      "name": "main.54d6e6df05d831eb.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.54d6e6df05d831eb.hot-update.json",
+      "publicPath": "http://localhost:8080/main.54d6e6df05d831eb.hot-update.json"
+    },
+    "main.54fc1fa6e4599544.hot-update.js": {
+      "name": "main.54fc1fa6e4599544.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.54fc1fa6e4599544.hot-update.js",
+      "publicPath": "http://localhost:8080/main.54fc1fa6e4599544.hot-update.js"
+    },
+    "main.54fc1fa6e4599544.hot-update.json": {
+      "name": "main.54fc1fa6e4599544.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.54fc1fa6e4599544.hot-update.json",
+      "publicPath": "http://localhost:8080/main.54fc1fa6e4599544.hot-update.json"
+    },
+    "main.54fc4fb03b386e58.hot-update.js": {
+      "name": "main.54fc4fb03b386e58.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.54fc4fb03b386e58.hot-update.js",
+      "publicPath": "http://localhost:8080/main.54fc4fb03b386e58.hot-update.js"
+    },
+    "main.54fc4fb03b386e58.hot-update.json": {
+      "name": "main.54fc4fb03b386e58.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.54fc4fb03b386e58.hot-update.json",
+      "publicPath": "http://localhost:8080/main.54fc4fb03b386e58.hot-update.json"
+    },
+    "main.568126052f4fd746.hot-update.js": {
+      "name": "main.568126052f4fd746.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.568126052f4fd746.hot-update.js",
+      "publicPath": "http://localhost:8080/main.568126052f4fd746.hot-update.js"
+    },
+    "main.568126052f4fd746.hot-update.json": {
+      "name": "main.568126052f4fd746.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.568126052f4fd746.hot-update.json",
+      "publicPath": "http://localhost:8080/main.568126052f4fd746.hot-update.json"
+    },
+    "main.56f0556db4ea005b.hot-update.js": {
+      "name": "main.56f0556db4ea005b.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.56f0556db4ea005b.hot-update.js",
+      "publicPath": "http://localhost:8080/main.56f0556db4ea005b.hot-update.js"
+    },
+    "main.56f0556db4ea005b.hot-update.json": {
+      "name": "main.56f0556db4ea005b.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.56f0556db4ea005b.hot-update.json",
+      "publicPath": "http://localhost:8080/main.56f0556db4ea005b.hot-update.json"
+    },
+    "main.581841ce8fa4517e.hot-update.js": {
+      "name": "main.581841ce8fa4517e.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.581841ce8fa4517e.hot-update.js",
+      "publicPath": "http://localhost:8080/main.581841ce8fa4517e.hot-update.js"
+    },
+    "main.581841ce8fa4517e.hot-update.json": {
+      "name": "main.581841ce8fa4517e.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.581841ce8fa4517e.hot-update.json",
+      "publicPath": "http://localhost:8080/main.581841ce8fa4517e.hot-update.json"
+    },
+    "main.5d259414d47da286.hot-update.js": {
+      "name": "main.5d259414d47da286.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.5d259414d47da286.hot-update.js",
+      "publicPath": "http://localhost:8080/main.5d259414d47da286.hot-update.js"
+    },
+    "main.5d259414d47da286.hot-update.json": {
+      "name": "main.5d259414d47da286.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.5d259414d47da286.hot-update.json",
+      "publicPath": "http://localhost:8080/main.5d259414d47da286.hot-update.json"
+    },
+    "main.6319ac52d6c701a9.hot-update.js": {
+      "name": "main.6319ac52d6c701a9.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.6319ac52d6c701a9.hot-update.js",
+      "publicPath": "http://localhost:8080/main.6319ac52d6c701a9.hot-update.js"
+    },
+    "main.6319ac52d6c701a9.hot-update.json": {
+      "name": "main.6319ac52d6c701a9.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.6319ac52d6c701a9.hot-update.json",
+      "publicPath": "http://localhost:8080/main.6319ac52d6c701a9.hot-update.json"
+    },
+    "main.639b18786eade258.hot-update.js": {
+      "name": "main.639b18786eade258.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.639b18786eade258.hot-update.js",
+      "publicPath": "http://localhost:8080/main.639b18786eade258.hot-update.js"
+    },
+    "main.639b18786eade258.hot-update.json": {
+      "name": "main.639b18786eade258.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.639b18786eade258.hot-update.json",
+      "publicPath": "http://localhost:8080/main.639b18786eade258.hot-update.json"
+    },
+    "main.65bf3d5b8f0ce507.hot-update.js": {
+      "name": "main.65bf3d5b8f0ce507.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.65bf3d5b8f0ce507.hot-update.js",
+      "publicPath": "http://localhost:8080/main.65bf3d5b8f0ce507.hot-update.js"
+    },
+    "main.65bf3d5b8f0ce507.hot-update.json": {
+      "name": "main.65bf3d5b8f0ce507.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.65bf3d5b8f0ce507.hot-update.json",
+      "publicPath": "http://localhost:8080/main.65bf3d5b8f0ce507.hot-update.json"
+    },
+    "main.67230d66792c7d4c.hot-update.js": {
+      "name": "main.67230d66792c7d4c.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.67230d66792c7d4c.hot-update.js",
+      "publicPath": "http://localhost:8080/main.67230d66792c7d4c.hot-update.js"
+    },
+    "main.67230d66792c7d4c.hot-update.json": {
+      "name": "main.67230d66792c7d4c.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.67230d66792c7d4c.hot-update.json",
+      "publicPath": "http://localhost:8080/main.67230d66792c7d4c.hot-update.json"
+    },
+    "main.68f1d5a8bc0b368b.hot-update.js": {
+      "name": "main.68f1d5a8bc0b368b.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.68f1d5a8bc0b368b.hot-update.js",
+      "publicPath": "http://localhost:8080/main.68f1d5a8bc0b368b.hot-update.js"
+    },
+    "main.68f1d5a8bc0b368b.hot-update.json": {
+      "name": "main.68f1d5a8bc0b368b.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.68f1d5a8bc0b368b.hot-update.json",
+      "publicPath": "http://localhost:8080/main.68f1d5a8bc0b368b.hot-update.json"
+    },
+    "main.6a7fcd86f7c361a5.hot-update.js": {
+      "name": "main.6a7fcd86f7c361a5.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.6a7fcd86f7c361a5.hot-update.js",
+      "publicPath": "http://localhost:8080/main.6a7fcd86f7c361a5.hot-update.js"
+    },
+    "main.6a7fcd86f7c361a5.hot-update.json": {
+      "name": "main.6a7fcd86f7c361a5.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.6a7fcd86f7c361a5.hot-update.json",
+      "publicPath": "http://localhost:8080/main.6a7fcd86f7c361a5.hot-update.json"
+    },
+    "main.6b35ed03293fff2b.hot-update.js": {
+      "name": "main.6b35ed03293fff2b.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.6b35ed03293fff2b.hot-update.js",
+      "publicPath": "http://localhost:8080/main.6b35ed03293fff2b.hot-update.js"
+    },
+    "main.6b35ed03293fff2b.hot-update.json": {
+      "name": "main.6b35ed03293fff2b.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.6b35ed03293fff2b.hot-update.json",
+      "publicPath": "http://localhost:8080/main.6b35ed03293fff2b.hot-update.json"
+    },
+    "main.711da2e8f5e0d77e.hot-update.js": {
+      "name": "main.711da2e8f5e0d77e.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.711da2e8f5e0d77e.hot-update.js",
+      "publicPath": "http://localhost:8080/main.711da2e8f5e0d77e.hot-update.js"
+    },
+    "main.711da2e8f5e0d77e.hot-update.json": {
+      "name": "main.711da2e8f5e0d77e.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.711da2e8f5e0d77e.hot-update.json",
+      "publicPath": "http://localhost:8080/main.711da2e8f5e0d77e.hot-update.json"
+    },
+    "main.71e99d75b00f78e0.hot-update.js": {
+      "name": "main.71e99d75b00f78e0.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.71e99d75b00f78e0.hot-update.js",
+      "publicPath": "http://localhost:8080/main.71e99d75b00f78e0.hot-update.js"
+    },
+    "main.71e99d75b00f78e0.hot-update.json": {
+      "name": "main.71e99d75b00f78e0.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.71e99d75b00f78e0.hot-update.json",
+      "publicPath": "http://localhost:8080/main.71e99d75b00f78e0.hot-update.json"
+    },
+    "main.72b3b5de64cc63c8.hot-update.js": {
+      "name": "main.72b3b5de64cc63c8.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.72b3b5de64cc63c8.hot-update.js",
+      "publicPath": "http://localhost:8080/main.72b3b5de64cc63c8.hot-update.js"
+    },
+    "main.72b3b5de64cc63c8.hot-update.json": {
+      "name": "main.72b3b5de64cc63c8.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.72b3b5de64cc63c8.hot-update.json",
+      "publicPath": "http://localhost:8080/main.72b3b5de64cc63c8.hot-update.json"
+    },
+    "main.7390cbf158275e22.hot-update.js": {
+      "name": "main.7390cbf158275e22.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.7390cbf158275e22.hot-update.js",
+      "publicPath": "http://localhost:8080/main.7390cbf158275e22.hot-update.js"
+    },
+    "main.7390cbf158275e22.hot-update.json": {
+      "name": "main.7390cbf158275e22.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.7390cbf158275e22.hot-update.json",
+      "publicPath": "http://localhost:8080/main.7390cbf158275e22.hot-update.json"
+    },
+    "main.73f004cd85858516.hot-update.js": {
+      "name": "main.73f004cd85858516.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.73f004cd85858516.hot-update.js",
+      "publicPath": "http://localhost:8080/main.73f004cd85858516.hot-update.js"
+    },
+    "main.73f004cd85858516.hot-update.json": {
+      "name": "main.73f004cd85858516.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.73f004cd85858516.hot-update.json",
+      "publicPath": "http://localhost:8080/main.73f004cd85858516.hot-update.json"
+    },
+    "main.7760058d2e932e75.hot-update.js": {
+      "name": "main.7760058d2e932e75.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.7760058d2e932e75.hot-update.js",
+      "publicPath": "http://localhost:8080/main.7760058d2e932e75.hot-update.js"
+    },
+    "main.7760058d2e932e75.hot-update.json": {
+      "name": "main.7760058d2e932e75.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.7760058d2e932e75.hot-update.json",
+      "publicPath": "http://localhost:8080/main.7760058d2e932e75.hot-update.json"
+    },
+    "main.77f03c6911ae0c54.hot-update.js": {
+      "name": "main.77f03c6911ae0c54.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.77f03c6911ae0c54.hot-update.js",
+      "publicPath": "http://localhost:8080/main.77f03c6911ae0c54.hot-update.js"
+    },
+    "main.77f03c6911ae0c54.hot-update.json": {
+      "name": "main.77f03c6911ae0c54.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.77f03c6911ae0c54.hot-update.json",
+      "publicPath": "http://localhost:8080/main.77f03c6911ae0c54.hot-update.json"
+    },
+    "main.7bcdcad72e300ae7.hot-update.js": {
+      "name": "main.7bcdcad72e300ae7.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.7bcdcad72e300ae7.hot-update.js",
+      "publicPath": "http://localhost:8080/main.7bcdcad72e300ae7.hot-update.js"
+    },
+    "main.7bcdcad72e300ae7.hot-update.json": {
+      "name": "main.7bcdcad72e300ae7.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.7bcdcad72e300ae7.hot-update.json",
+      "publicPath": "http://localhost:8080/main.7bcdcad72e300ae7.hot-update.json"
+    },
+    "main.7f268fb26fe8d264.hot-update.js": {
+      "name": "main.7f268fb26fe8d264.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.7f268fb26fe8d264.hot-update.js",
+      "publicPath": "http://localhost:8080/main.7f268fb26fe8d264.hot-update.js"
+    },
+    "main.7f268fb26fe8d264.hot-update.json": {
+      "name": "main.7f268fb26fe8d264.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.7f268fb26fe8d264.hot-update.json",
+      "publicPath": "http://localhost:8080/main.7f268fb26fe8d264.hot-update.json"
+    },
+    "main.7fdcb9993427dd41.hot-update.js": {
+      "name": "main.7fdcb9993427dd41.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.7fdcb9993427dd41.hot-update.js",
+      "publicPath": "http://localhost:8080/main.7fdcb9993427dd41.hot-update.js"
+    },
+    "main.7fdcb9993427dd41.hot-update.json": {
+      "name": "main.7fdcb9993427dd41.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.7fdcb9993427dd41.hot-update.json",
+      "publicPath": "http://localhost:8080/main.7fdcb9993427dd41.hot-update.json"
+    },
+    "main.80c69636a519b7e3.hot-update.js": {
+      "name": "main.80c69636a519b7e3.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.80c69636a519b7e3.hot-update.js",
+      "publicPath": "http://localhost:8080/main.80c69636a519b7e3.hot-update.js"
+    },
+    "main.80c69636a519b7e3.hot-update.json": {
+      "name": "main.80c69636a519b7e3.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.80c69636a519b7e3.hot-update.json",
+      "publicPath": "http://localhost:8080/main.80c69636a519b7e3.hot-update.json"
+    },
+    "main.80e6da89a96e87fb.hot-update.js": {
+      "name": "main.80e6da89a96e87fb.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.80e6da89a96e87fb.hot-update.js",
+      "publicPath": "http://localhost:8080/main.80e6da89a96e87fb.hot-update.js"
+    },
+    "main.80e6da89a96e87fb.hot-update.json": {
+      "name": "main.80e6da89a96e87fb.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.80e6da89a96e87fb.hot-update.json",
+      "publicPath": "http://localhost:8080/main.80e6da89a96e87fb.hot-update.json"
+    },
+    "main.86631a0e398bc6eb.hot-update.js": {
+      "name": "main.86631a0e398bc6eb.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.86631a0e398bc6eb.hot-update.js",
+      "publicPath": "http://localhost:8080/main.86631a0e398bc6eb.hot-update.js"
+    },
+    "main.86631a0e398bc6eb.hot-update.json": {
+      "name": "main.86631a0e398bc6eb.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.86631a0e398bc6eb.hot-update.json",
+      "publicPath": "http://localhost:8080/main.86631a0e398bc6eb.hot-update.json"
+    },
+    "main.86e22e99f0b09f57.hot-update.js": {
+      "name": "main.86e22e99f0b09f57.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.86e22e99f0b09f57.hot-update.js",
+      "publicPath": "http://localhost:8080/main.86e22e99f0b09f57.hot-update.js"
+    },
+    "main.86e22e99f0b09f57.hot-update.json": {
+      "name": "main.86e22e99f0b09f57.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.86e22e99f0b09f57.hot-update.json",
+      "publicPath": "http://localhost:8080/main.86e22e99f0b09f57.hot-update.json"
+    },
+    "main.8741263587eaaaaf.hot-update.js": {
+      "name": "main.8741263587eaaaaf.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.8741263587eaaaaf.hot-update.js",
+      "publicPath": "http://localhost:8080/main.8741263587eaaaaf.hot-update.js"
+    },
+    "main.8741263587eaaaaf.hot-update.json": {
+      "name": "main.8741263587eaaaaf.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.8741263587eaaaaf.hot-update.json",
+      "publicPath": "http://localhost:8080/main.8741263587eaaaaf.hot-update.json"
+    },
+    "main.8ca02da30c84b090.hot-update.js": {
+      "name": "main.8ca02da30c84b090.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.8ca02da30c84b090.hot-update.js",
+      "publicPath": "http://localhost:8080/main.8ca02da30c84b090.hot-update.js"
+    },
+    "main.8ca02da30c84b090.hot-update.json": {
+      "name": "main.8ca02da30c84b090.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.8ca02da30c84b090.hot-update.json",
+      "publicPath": "http://localhost:8080/main.8ca02da30c84b090.hot-update.json"
+    },
+    "main.8cebdebf229ea564.hot-update.js": {
+      "name": "main.8cebdebf229ea564.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.8cebdebf229ea564.hot-update.js",
+      "publicPath": "http://localhost:8080/main.8cebdebf229ea564.hot-update.js"
+    },
+    "main.8cebdebf229ea564.hot-update.json": {
+      "name": "main.8cebdebf229ea564.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.8cebdebf229ea564.hot-update.json",
+      "publicPath": "http://localhost:8080/main.8cebdebf229ea564.hot-update.json"
+    },
+    "main.8ced4be6c5411c00.hot-update.js": {
+      "name": "main.8ced4be6c5411c00.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.8ced4be6c5411c00.hot-update.js",
+      "publicPath": "http://localhost:8080/main.8ced4be6c5411c00.hot-update.js"
+    },
+    "main.8ced4be6c5411c00.hot-update.json": {
+      "name": "main.8ced4be6c5411c00.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.8ced4be6c5411c00.hot-update.json",
+      "publicPath": "http://localhost:8080/main.8ced4be6c5411c00.hot-update.json"
+    },
+    "main.8d47bb98d21b9cef.hot-update.js": {
+      "name": "main.8d47bb98d21b9cef.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.8d47bb98d21b9cef.hot-update.js",
+      "publicPath": "http://localhost:8080/main.8d47bb98d21b9cef.hot-update.js"
+    },
+    "main.8d47bb98d21b9cef.hot-update.json": {
+      "name": "main.8d47bb98d21b9cef.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.8d47bb98d21b9cef.hot-update.json",
+      "publicPath": "http://localhost:8080/main.8d47bb98d21b9cef.hot-update.json"
+    },
+    "main.8f9b8e6370150b64.hot-update.js": {
+      "name": "main.8f9b8e6370150b64.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.8f9b8e6370150b64.hot-update.js",
+      "publicPath": "http://localhost:8080/main.8f9b8e6370150b64.hot-update.js"
+    },
+    "main.8f9b8e6370150b64.hot-update.json": {
+      "name": "main.8f9b8e6370150b64.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.8f9b8e6370150b64.hot-update.json",
+      "publicPath": "http://localhost:8080/main.8f9b8e6370150b64.hot-update.json"
+    },
+    "main.92d5d5ad5a8687b2.hot-update.js": {
+      "name": "main.92d5d5ad5a8687b2.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.92d5d5ad5a8687b2.hot-update.js",
+      "publicPath": "http://localhost:8080/main.92d5d5ad5a8687b2.hot-update.js"
+    },
+    "main.92d5d5ad5a8687b2.hot-update.json": {
+      "name": "main.92d5d5ad5a8687b2.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.92d5d5ad5a8687b2.hot-update.json",
+      "publicPath": "http://localhost:8080/main.92d5d5ad5a8687b2.hot-update.json"
+    },
+    "main.94cd8e891b5ff357.hot-update.js": {
+      "name": "main.94cd8e891b5ff357.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.94cd8e891b5ff357.hot-update.js",
+      "publicPath": "http://localhost:8080/main.94cd8e891b5ff357.hot-update.js"
+    },
+    "main.94cd8e891b5ff357.hot-update.json": {
+      "name": "main.94cd8e891b5ff357.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.94cd8e891b5ff357.hot-update.json",
+      "publicPath": "http://localhost:8080/main.94cd8e891b5ff357.hot-update.json"
+    },
+    "main.98c6b6ec02f987ce.hot-update.js": {
+      "name": "main.98c6b6ec02f987ce.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.98c6b6ec02f987ce.hot-update.js",
+      "publicPath": "http://localhost:8080/main.98c6b6ec02f987ce.hot-update.js"
+    },
+    "main.98c6b6ec02f987ce.hot-update.json": {
+      "name": "main.98c6b6ec02f987ce.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.98c6b6ec02f987ce.hot-update.json",
+      "publicPath": "http://localhost:8080/main.98c6b6ec02f987ce.hot-update.json"
+    },
+    "main.992d038c31290c7b.hot-update.js": {
+      "name": "main.992d038c31290c7b.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.992d038c31290c7b.hot-update.js",
+      "publicPath": "http://localhost:8080/main.992d038c31290c7b.hot-update.js"
+    },
+    "main.992d038c31290c7b.hot-update.json": {
+      "name": "main.992d038c31290c7b.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.992d038c31290c7b.hot-update.json",
+      "publicPath": "http://localhost:8080/main.992d038c31290c7b.hot-update.json"
+    },
+    "main.9bebb218de26f3f3.hot-update.js": {
+      "name": "main.9bebb218de26f3f3.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.9bebb218de26f3f3.hot-update.js",
+      "publicPath": "http://localhost:8080/main.9bebb218de26f3f3.hot-update.js"
+    },
+    "main.9bebb218de26f3f3.hot-update.json": {
+      "name": "main.9bebb218de26f3f3.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.9bebb218de26f3f3.hot-update.json",
+      "publicPath": "http://localhost:8080/main.9bebb218de26f3f3.hot-update.json"
+    },
+    "main.9d2545230eca5bef.hot-update.js": {
+      "name": "main.9d2545230eca5bef.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.9d2545230eca5bef.hot-update.js",
+      "publicPath": "http://localhost:8080/main.9d2545230eca5bef.hot-update.js"
+    },
+    "main.9d2545230eca5bef.hot-update.json": {
+      "name": "main.9d2545230eca5bef.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.9d2545230eca5bef.hot-update.json",
+      "publicPath": "http://localhost:8080/main.9d2545230eca5bef.hot-update.json"
+    },
+    "main.a275dfd6c2f98b6b.hot-update.js": {
+      "name": "main.a275dfd6c2f98b6b.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.a275dfd6c2f98b6b.hot-update.js",
+      "publicPath": "http://localhost:8080/main.a275dfd6c2f98b6b.hot-update.js"
+    },
+    "main.a275dfd6c2f98b6b.hot-update.json": {
+      "name": "main.a275dfd6c2f98b6b.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.a275dfd6c2f98b6b.hot-update.json",
+      "publicPath": "http://localhost:8080/main.a275dfd6c2f98b6b.hot-update.json"
+    },
+    "main.a5c741dacd4845db.hot-update.js": {
+      "name": "main.a5c741dacd4845db.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.a5c741dacd4845db.hot-update.js",
+      "publicPath": "http://localhost:8080/main.a5c741dacd4845db.hot-update.js"
+    },
+    "main.a5c741dacd4845db.hot-update.json": {
+      "name": "main.a5c741dacd4845db.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.a5c741dacd4845db.hot-update.json",
+      "publicPath": "http://localhost:8080/main.a5c741dacd4845db.hot-update.json"
+    },
+    "main.a740d84c3315e796.hot-update.js": {
+      "name": "main.a740d84c3315e796.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.a740d84c3315e796.hot-update.js",
+      "publicPath": "http://localhost:8080/main.a740d84c3315e796.hot-update.js"
+    },
+    "main.a740d84c3315e796.hot-update.json": {
+      "name": "main.a740d84c3315e796.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.a740d84c3315e796.hot-update.json",
+      "publicPath": "http://localhost:8080/main.a740d84c3315e796.hot-update.json"
+    },
+    "main.a793f0fe45efe55d.hot-update.js": {
+      "name": "main.a793f0fe45efe55d.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.a793f0fe45efe55d.hot-update.js",
+      "publicPath": "http://localhost:8080/main.a793f0fe45efe55d.hot-update.js"
+    },
+    "main.a793f0fe45efe55d.hot-update.json": {
+      "name": "main.a793f0fe45efe55d.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.a793f0fe45efe55d.hot-update.json",
+      "publicPath": "http://localhost:8080/main.a793f0fe45efe55d.hot-update.json"
+    },
+    "main.a9cba5ee1601c6c7.hot-update.js": {
+      "name": "main.a9cba5ee1601c6c7.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.a9cba5ee1601c6c7.hot-update.js",
+      "publicPath": "http://localhost:8080/main.a9cba5ee1601c6c7.hot-update.js"
+    },
+    "main.a9cba5ee1601c6c7.hot-update.json": {
+      "name": "main.a9cba5ee1601c6c7.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.a9cba5ee1601c6c7.hot-update.json",
+      "publicPath": "http://localhost:8080/main.a9cba5ee1601c6c7.hot-update.json"
+    },
+    "main.ac7013b0d1d3fa23.hot-update.js": {
+      "name": "main.ac7013b0d1d3fa23.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.ac7013b0d1d3fa23.hot-update.js",
+      "publicPath": "http://localhost:8080/main.ac7013b0d1d3fa23.hot-update.js"
+    },
+    "main.ac7013b0d1d3fa23.hot-update.json": {
+      "name": "main.ac7013b0d1d3fa23.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.ac7013b0d1d3fa23.hot-update.json",
+      "publicPath": "http://localhost:8080/main.ac7013b0d1d3fa23.hot-update.json"
+    },
+    "main.acb9a5402759467c.hot-update.js": {
+      "name": "main.acb9a5402759467c.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.acb9a5402759467c.hot-update.js",
+      "publicPath": "http://localhost:8080/main.acb9a5402759467c.hot-update.js"
+    },
+    "main.acb9a5402759467c.hot-update.json": {
+      "name": "main.acb9a5402759467c.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.acb9a5402759467c.hot-update.json",
+      "publicPath": "http://localhost:8080/main.acb9a5402759467c.hot-update.json"
+    },
+    "main.af22f2d15f5bdf60.hot-update.js": {
+      "name": "main.af22f2d15f5bdf60.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.af22f2d15f5bdf60.hot-update.js",
+      "publicPath": "http://localhost:8080/main.af22f2d15f5bdf60.hot-update.js"
+    },
+    "main.af22f2d15f5bdf60.hot-update.json": {
+      "name": "main.af22f2d15f5bdf60.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.af22f2d15f5bdf60.hot-update.json",
+      "publicPath": "http://localhost:8080/main.af22f2d15f5bdf60.hot-update.json"
+    },
+    "main.afe7129edb94d989.hot-update.js": {
+      "name": "main.afe7129edb94d989.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.afe7129edb94d989.hot-update.js",
+      "publicPath": "http://localhost:8080/main.afe7129edb94d989.hot-update.js"
+    },
+    "main.afe7129edb94d989.hot-update.json": {
+      "name": "main.afe7129edb94d989.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.afe7129edb94d989.hot-update.json",
+      "publicPath": "http://localhost:8080/main.afe7129edb94d989.hot-update.json"
+    },
+    "main.b01331b6548aa3d6.hot-update.js": {
+      "name": "main.b01331b6548aa3d6.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b01331b6548aa3d6.hot-update.js",
+      "publicPath": "http://localhost:8080/main.b01331b6548aa3d6.hot-update.js"
+    },
+    "main.b01331b6548aa3d6.hot-update.json": {
+      "name": "main.b01331b6548aa3d6.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b01331b6548aa3d6.hot-update.json",
+      "publicPath": "http://localhost:8080/main.b01331b6548aa3d6.hot-update.json"
+    },
+    "main.b16f2b19d9235fde.hot-update.js": {
+      "name": "main.b16f2b19d9235fde.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b16f2b19d9235fde.hot-update.js",
+      "publicPath": "http://localhost:8080/main.b16f2b19d9235fde.hot-update.js"
+    },
+    "main.b16f2b19d9235fde.hot-update.json": {
+      "name": "main.b16f2b19d9235fde.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b16f2b19d9235fde.hot-update.json",
+      "publicPath": "http://localhost:8080/main.b16f2b19d9235fde.hot-update.json"
+    },
+    "main.b22288bbedcd6658.hot-update.js": {
+      "name": "main.b22288bbedcd6658.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b22288bbedcd6658.hot-update.js",
+      "publicPath": "http://localhost:8080/main.b22288bbedcd6658.hot-update.js"
+    },
+    "main.b22288bbedcd6658.hot-update.json": {
+      "name": "main.b22288bbedcd6658.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b22288bbedcd6658.hot-update.json",
+      "publicPath": "http://localhost:8080/main.b22288bbedcd6658.hot-update.json"
+    },
+    "main.b233fc6149f9f26e.hot-update.js": {
+      "name": "main.b233fc6149f9f26e.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b233fc6149f9f26e.hot-update.js",
+      "publicPath": "http://localhost:8080/main.b233fc6149f9f26e.hot-update.js"
+    },
+    "main.b233fc6149f9f26e.hot-update.json": {
+      "name": "main.b233fc6149f9f26e.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b233fc6149f9f26e.hot-update.json",
+      "publicPath": "http://localhost:8080/main.b233fc6149f9f26e.hot-update.json"
+    },
+    "main.b24823d1172d40ce.hot-update.js": {
+      "name": "main.b24823d1172d40ce.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b24823d1172d40ce.hot-update.js",
+      "publicPath": "http://localhost:8080/main.b24823d1172d40ce.hot-update.js"
+    },
+    "main.b24823d1172d40ce.hot-update.json": {
+      "name": "main.b24823d1172d40ce.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b24823d1172d40ce.hot-update.json",
+      "publicPath": "http://localhost:8080/main.b24823d1172d40ce.hot-update.json"
+    },
+    "main.b585b2a74b3f3a04.hot-update.js": {
+      "name": "main.b585b2a74b3f3a04.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b585b2a74b3f3a04.hot-update.js",
+      "publicPath": "http://localhost:8080/main.b585b2a74b3f3a04.hot-update.js"
+    },
+    "main.b585b2a74b3f3a04.hot-update.json": {
+      "name": "main.b585b2a74b3f3a04.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b585b2a74b3f3a04.hot-update.json",
+      "publicPath": "http://localhost:8080/main.b585b2a74b3f3a04.hot-update.json"
+    },
+    "main.b5f8368b4e6512f9.hot-update.js": {
+      "name": "main.b5f8368b4e6512f9.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b5f8368b4e6512f9.hot-update.js",
+      "publicPath": "http://localhost:8080/main.b5f8368b4e6512f9.hot-update.js"
+    },
+    "main.b5f8368b4e6512f9.hot-update.json": {
+      "name": "main.b5f8368b4e6512f9.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b5f8368b4e6512f9.hot-update.json",
+      "publicPath": "http://localhost:8080/main.b5f8368b4e6512f9.hot-update.json"
+    },
+    "main.b68e846d568d8bdb.hot-update.js": {
+      "name": "main.b68e846d568d8bdb.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b68e846d568d8bdb.hot-update.js",
+      "publicPath": "http://localhost:8080/main.b68e846d568d8bdb.hot-update.js"
+    },
+    "main.b68e846d568d8bdb.hot-update.json": {
+      "name": "main.b68e846d568d8bdb.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b68e846d568d8bdb.hot-update.json",
+      "publicPath": "http://localhost:8080/main.b68e846d568d8bdb.hot-update.json"
+    },
+    "main.b767ee3c8bb4c7fb.hot-update.js": {
+      "name": "main.b767ee3c8bb4c7fb.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b767ee3c8bb4c7fb.hot-update.js",
+      "publicPath": "http://localhost:8080/main.b767ee3c8bb4c7fb.hot-update.js"
+    },
+    "main.b767ee3c8bb4c7fb.hot-update.json": {
+      "name": "main.b767ee3c8bb4c7fb.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.b767ee3c8bb4c7fb.hot-update.json",
+      "publicPath": "http://localhost:8080/main.b767ee3c8bb4c7fb.hot-update.json"
+    },
+    "main.ba7ae6c52306e06f.hot-update.js": {
+      "name": "main.ba7ae6c52306e06f.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.ba7ae6c52306e06f.hot-update.js",
+      "publicPath": "http://localhost:8080/main.ba7ae6c52306e06f.hot-update.js"
+    },
+    "main.ba7ae6c52306e06f.hot-update.json": {
+      "name": "main.ba7ae6c52306e06f.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.ba7ae6c52306e06f.hot-update.json",
+      "publicPath": "http://localhost:8080/main.ba7ae6c52306e06f.hot-update.json"
+    },
+    "main.bdda465df04002ca.hot-update.js": {
+      "name": "main.bdda465df04002ca.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.bdda465df04002ca.hot-update.js",
+      "publicPath": "http://localhost:8080/main.bdda465df04002ca.hot-update.js"
+    },
+    "main.bdda465df04002ca.hot-update.json": {
+      "name": "main.bdda465df04002ca.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.bdda465df04002ca.hot-update.json",
+      "publicPath": "http://localhost:8080/main.bdda465df04002ca.hot-update.json"
+    },
+    "main.c6418ae227612f8c.hot-update.js": {
+      "name": "main.c6418ae227612f8c.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.c6418ae227612f8c.hot-update.js",
+      "publicPath": "http://localhost:8080/main.c6418ae227612f8c.hot-update.js"
+    },
+    "main.c6418ae227612f8c.hot-update.json": {
+      "name": "main.c6418ae227612f8c.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.c6418ae227612f8c.hot-update.json",
+      "publicPath": "http://localhost:8080/main.c6418ae227612f8c.hot-update.json"
+    },
+    "main.c78d376a8f2dd674.hot-update.js": {
+      "name": "main.c78d376a8f2dd674.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.c78d376a8f2dd674.hot-update.js",
+      "publicPath": "http://localhost:8080/main.c78d376a8f2dd674.hot-update.js"
+    },
+    "main.c78d376a8f2dd674.hot-update.json": {
+      "name": "main.c78d376a8f2dd674.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.c78d376a8f2dd674.hot-update.json",
+      "publicPath": "http://localhost:8080/main.c78d376a8f2dd674.hot-update.json"
+    },
+    "main.c7c99e60abae69da.hot-update.js": {
+      "name": "main.c7c99e60abae69da.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.c7c99e60abae69da.hot-update.js",
+      "publicPath": "http://localhost:8080/main.c7c99e60abae69da.hot-update.js"
+    },
+    "main.c7c99e60abae69da.hot-update.json": {
+      "name": "main.c7c99e60abae69da.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.c7c99e60abae69da.hot-update.json",
+      "publicPath": "http://localhost:8080/main.c7c99e60abae69da.hot-update.json"
+    },
+    "main.c8136d8165cd7449.hot-update.js": {
+      "name": "main.c8136d8165cd7449.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.c8136d8165cd7449.hot-update.js",
+      "publicPath": "http://localhost:8080/main.c8136d8165cd7449.hot-update.js"
+    },
+    "main.c8136d8165cd7449.hot-update.json": {
+      "name": "main.c8136d8165cd7449.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.c8136d8165cd7449.hot-update.json",
+      "publicPath": "http://localhost:8080/main.c8136d8165cd7449.hot-update.json"
+    },
+    "main.cabc536384c5abc9.hot-update.js": {
+      "name": "main.cabc536384c5abc9.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.cabc536384c5abc9.hot-update.js",
+      "publicPath": "http://localhost:8080/main.cabc536384c5abc9.hot-update.js"
+    },
+    "main.cabc536384c5abc9.hot-update.json": {
+      "name": "main.cabc536384c5abc9.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.cabc536384c5abc9.hot-update.json",
+      "publicPath": "http://localhost:8080/main.cabc536384c5abc9.hot-update.json"
+    },
+    "main.cdba1fb6cd95fee2.hot-update.js": {
+      "name": "main.cdba1fb6cd95fee2.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.cdba1fb6cd95fee2.hot-update.js",
+      "publicPath": "http://localhost:8080/main.cdba1fb6cd95fee2.hot-update.js"
+    },
+    "main.cdba1fb6cd95fee2.hot-update.json": {
+      "name": "main.cdba1fb6cd95fee2.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.cdba1fb6cd95fee2.hot-update.json",
+      "publicPath": "http://localhost:8080/main.cdba1fb6cd95fee2.hot-update.json"
+    },
+    "main.cfff7bb93d81aa01.hot-update.js": {
+      "name": "main.cfff7bb93d81aa01.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.cfff7bb93d81aa01.hot-update.js",
+      "publicPath": "http://localhost:8080/main.cfff7bb93d81aa01.hot-update.js"
+    },
+    "main.cfff7bb93d81aa01.hot-update.json": {
+      "name": "main.cfff7bb93d81aa01.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.cfff7bb93d81aa01.hot-update.json",
+      "publicPath": "http://localhost:8080/main.cfff7bb93d81aa01.hot-update.json"
+    },
+    "main.d04f54027447cbce.hot-update.js": {
+      "name": "main.d04f54027447cbce.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.d04f54027447cbce.hot-update.js",
+      "publicPath": "http://localhost:8080/main.d04f54027447cbce.hot-update.js"
+    },
+    "main.d04f54027447cbce.hot-update.json": {
+      "name": "main.d04f54027447cbce.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.d04f54027447cbce.hot-update.json",
+      "publicPath": "http://localhost:8080/main.d04f54027447cbce.hot-update.json"
+    },
+    "main.d46c86a383dac402.hot-update.js": {
+      "name": "main.d46c86a383dac402.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.d46c86a383dac402.hot-update.js",
+      "publicPath": "http://localhost:8080/main.d46c86a383dac402.hot-update.js"
+    },
+    "main.d46c86a383dac402.hot-update.json": {
+      "name": "main.d46c86a383dac402.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.d46c86a383dac402.hot-update.json",
+      "publicPath": "http://localhost:8080/main.d46c86a383dac402.hot-update.json"
+    },
+    "main.d4817fc343879155.hot-update.js": {
+      "name": "main.d4817fc343879155.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.d4817fc343879155.hot-update.js",
+      "publicPath": "http://localhost:8080/main.d4817fc343879155.hot-update.js"
+    },
+    "main.d4817fc343879155.hot-update.json": {
+      "name": "main.d4817fc343879155.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.d4817fc343879155.hot-update.json",
+      "publicPath": "http://localhost:8080/main.d4817fc343879155.hot-update.json"
+    },
+    "main.d4ceb3a24129eccc.hot-update.js": {
+      "name": "main.d4ceb3a24129eccc.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.d4ceb3a24129eccc.hot-update.js",
+      "publicPath": "http://localhost:8080/main.d4ceb3a24129eccc.hot-update.js"
+    },
+    "main.d4ceb3a24129eccc.hot-update.json": {
+      "name": "main.d4ceb3a24129eccc.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.d4ceb3a24129eccc.hot-update.json",
+      "publicPath": "http://localhost:8080/main.d4ceb3a24129eccc.hot-update.json"
+    },
+    "main.d50f8f63000793b6.hot-update.js": {
+      "name": "main.d50f8f63000793b6.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.d50f8f63000793b6.hot-update.js",
+      "publicPath": "http://localhost:8080/main.d50f8f63000793b6.hot-update.js"
+    },
+    "main.d50f8f63000793b6.hot-update.json": {
+      "name": "main.d50f8f63000793b6.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.d50f8f63000793b6.hot-update.json",
+      "publicPath": "http://localhost:8080/main.d50f8f63000793b6.hot-update.json"
+    },
+    "main.d63aa1f6f21f5a76.hot-update.js": {
+      "name": "main.d63aa1f6f21f5a76.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.d63aa1f6f21f5a76.hot-update.js",
+      "publicPath": "http://localhost:8080/main.d63aa1f6f21f5a76.hot-update.js"
+    },
+    "main.d63aa1f6f21f5a76.hot-update.json": {
+      "name": "main.d63aa1f6f21f5a76.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.d63aa1f6f21f5a76.hot-update.json",
+      "publicPath": "http://localhost:8080/main.d63aa1f6f21f5a76.hot-update.json"
+    },
+    "main.d7395f8f3e5ea9eb.hot-update.js": {
+      "name": "main.d7395f8f3e5ea9eb.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.d7395f8f3e5ea9eb.hot-update.js",
+      "publicPath": "http://localhost:8080/main.d7395f8f3e5ea9eb.hot-update.js"
+    },
+    "main.d7395f8f3e5ea9eb.hot-update.json": {
+      "name": "main.d7395f8f3e5ea9eb.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.d7395f8f3e5ea9eb.hot-update.json",
+      "publicPath": "http://localhost:8080/main.d7395f8f3e5ea9eb.hot-update.json"
+    },
+    "main.dc7319dde8ad38c0.hot-update.js": {
+      "name": "main.dc7319dde8ad38c0.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.dc7319dde8ad38c0.hot-update.js",
+      "publicPath": "http://localhost:8080/main.dc7319dde8ad38c0.hot-update.js"
+    },
+    "main.dc7319dde8ad38c0.hot-update.json": {
+      "name": "main.dc7319dde8ad38c0.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.dc7319dde8ad38c0.hot-update.json",
+      "publicPath": "http://localhost:8080/main.dc7319dde8ad38c0.hot-update.json"
+    },
+    "main.dd74e47aa668027e.hot-update.js": {
+      "name": "main.dd74e47aa668027e.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.dd74e47aa668027e.hot-update.js",
+      "publicPath": "http://localhost:8080/main.dd74e47aa668027e.hot-update.js"
+    },
+    "main.dd74e47aa668027e.hot-update.json": {
+      "name": "main.dd74e47aa668027e.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.dd74e47aa668027e.hot-update.json",
+      "publicPath": "http://localhost:8080/main.dd74e47aa668027e.hot-update.json"
+    },
+    "main.dd985a1fa61f368d.hot-update.js": {
+      "name": "main.dd985a1fa61f368d.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.dd985a1fa61f368d.hot-update.js",
+      "publicPath": "http://localhost:8080/main.dd985a1fa61f368d.hot-update.js"
+    },
+    "main.dd985a1fa61f368d.hot-update.json": {
+      "name": "main.dd985a1fa61f368d.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.dd985a1fa61f368d.hot-update.json",
+      "publicPath": "http://localhost:8080/main.dd985a1fa61f368d.hot-update.json"
+    },
+    "main.df66aa23204a2b2f.hot-update.js": {
+      "name": "main.df66aa23204a2b2f.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.df66aa23204a2b2f.hot-update.js",
+      "publicPath": "http://localhost:8080/main.df66aa23204a2b2f.hot-update.js"
+    },
+    "main.df66aa23204a2b2f.hot-update.json": {
+      "name": "main.df66aa23204a2b2f.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.df66aa23204a2b2f.hot-update.json",
+      "publicPath": "http://localhost:8080/main.df66aa23204a2b2f.hot-update.json"
+    },
+    "main.dfc9e53023edde7e.hot-update.js": {
+      "name": "main.dfc9e53023edde7e.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.dfc9e53023edde7e.hot-update.js",
+      "publicPath": "http://localhost:8080/main.dfc9e53023edde7e.hot-update.js"
+    },
+    "main.dfc9e53023edde7e.hot-update.json": {
+      "name": "main.dfc9e53023edde7e.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.dfc9e53023edde7e.hot-update.json",
+      "publicPath": "http://localhost:8080/main.dfc9e53023edde7e.hot-update.json"
+    },
+    "main.e1c6bce13dbcc1ec.hot-update.js": {
+      "name": "main.e1c6bce13dbcc1ec.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.e1c6bce13dbcc1ec.hot-update.js",
+      "publicPath": "http://localhost:8080/main.e1c6bce13dbcc1ec.hot-update.js"
+    },
+    "main.e1c6bce13dbcc1ec.hot-update.json": {
+      "name": "main.e1c6bce13dbcc1ec.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.e1c6bce13dbcc1ec.hot-update.json",
+      "publicPath": "http://localhost:8080/main.e1c6bce13dbcc1ec.hot-update.json"
+    },
+    "main.e2ee786edcccc5a3.hot-update.js": {
+      "name": "main.e2ee786edcccc5a3.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.e2ee786edcccc5a3.hot-update.js",
+      "publicPath": "http://localhost:8080/main.e2ee786edcccc5a3.hot-update.js"
+    },
+    "main.e2ee786edcccc5a3.hot-update.json": {
+      "name": "main.e2ee786edcccc5a3.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.e2ee786edcccc5a3.hot-update.json",
+      "publicPath": "http://localhost:8080/main.e2ee786edcccc5a3.hot-update.json"
+    },
+    "main.e856ba8a369d917e.hot-update.js": {
+      "name": "main.e856ba8a369d917e.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.e856ba8a369d917e.hot-update.js",
+      "publicPath": "http://localhost:8080/main.e856ba8a369d917e.hot-update.js"
+    },
+    "main.e856ba8a369d917e.hot-update.json": {
+      "name": "main.e856ba8a369d917e.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.e856ba8a369d917e.hot-update.json",
+      "publicPath": "http://localhost:8080/main.e856ba8a369d917e.hot-update.json"
+    },
+    "main.f1183de92cc94c81.hot-update.js": {
+      "name": "main.f1183de92cc94c81.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.f1183de92cc94c81.hot-update.js",
+      "publicPath": "http://localhost:8080/main.f1183de92cc94c81.hot-update.js"
+    },
+    "main.f1183de92cc94c81.hot-update.json": {
+      "name": "main.f1183de92cc94c81.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.f1183de92cc94c81.hot-update.json",
+      "publicPath": "http://localhost:8080/main.f1183de92cc94c81.hot-update.json"
+    },
+    "main.f199ad364d56acf4.hot-update.js": {
+      "name": "main.f199ad364d56acf4.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.f199ad364d56acf4.hot-update.js",
+      "publicPath": "http://localhost:8080/main.f199ad364d56acf4.hot-update.js"
+    },
+    "main.f199ad364d56acf4.hot-update.json": {
+      "name": "main.f199ad364d56acf4.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.f199ad364d56acf4.hot-update.json",
+      "publicPath": "http://localhost:8080/main.f199ad364d56acf4.hot-update.json"
+    },
+    "main.f1aa3d2d0ad06ccc.hot-update.js": {
+      "name": "main.f1aa3d2d0ad06ccc.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.f1aa3d2d0ad06ccc.hot-update.js",
+      "publicPath": "http://localhost:8080/main.f1aa3d2d0ad06ccc.hot-update.js"
+    },
+    "main.f1aa3d2d0ad06ccc.hot-update.json": {
+      "name": "main.f1aa3d2d0ad06ccc.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.f1aa3d2d0ad06ccc.hot-update.json",
+      "publicPath": "http://localhost:8080/main.f1aa3d2d0ad06ccc.hot-update.json"
+    },
+    "main.f5a09a773058afb9.hot-update.js": {
+      "name": "main.f5a09a773058afb9.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.f5a09a773058afb9.hot-update.js",
+      "publicPath": "http://localhost:8080/main.f5a09a773058afb9.hot-update.js"
+    },
+    "main.f5a09a773058afb9.hot-update.json": {
+      "name": "main.f5a09a773058afb9.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.f5a09a773058afb9.hot-update.json",
+      "publicPath": "http://localhost:8080/main.f5a09a773058afb9.hot-update.json"
+    },
+    "main.f951b4e40a93cc3d.hot-update.js": {
+      "name": "main.f951b4e40a93cc3d.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.f951b4e40a93cc3d.hot-update.js",
+      "publicPath": "http://localhost:8080/main.f951b4e40a93cc3d.hot-update.js"
+    },
+    "main.f951b4e40a93cc3d.hot-update.json": {
+      "name": "main.f951b4e40a93cc3d.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.f951b4e40a93cc3d.hot-update.json",
+      "publicPath": "http://localhost:8080/main.f951b4e40a93cc3d.hot-update.json"
+    },
+    "main.fbe73b4e392ca099.hot-update.js": {
+      "name": "main.fbe73b4e392ca099.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.fbe73b4e392ca099.hot-update.js",
+      "publicPath": "http://localhost:8080/main.fbe73b4e392ca099.hot-update.js"
+    },
+    "main.fbe73b4e392ca099.hot-update.json": {
+      "name": "main.fbe73b4e392ca099.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.fbe73b4e392ca099.hot-update.json",
+      "publicPath": "http://localhost:8080/main.fbe73b4e392ca099.hot-update.json"
+    },
+    "main.ff3a2678372fb0bd.hot-update.js": {
+      "name": "main.ff3a2678372fb0bd.hot-update.js",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.ff3a2678372fb0bd.hot-update.js",
+      "publicPath": "http://localhost:8080/main.ff3a2678372fb0bd.hot-update.js"
+    },
+    "main.ff3a2678372fb0bd.hot-update.json": {
+      "name": "main.ff3a2678372fb0bd.hot-update.json",
+      "path": "/home/julio/Documentos/github/Refugio-mascota-api/static/vue3/main.ff3a2678372fb0bd.hot-update.json",
+      "publicPath": "http://localhost:8080/main.ff3a2678372fb0bd.hot-update.json"
     },
     "main.html": {
       "name": "main.html",
@@ -111,10 +1441,10 @@
     "main": [
       "js/chunk-vendors.js",
       "js/main.js",
-      "main.18bb4443b4d82ee1.hot-update.js"
+      "main.711da2e8f5e0d77e.hot-update.js"
     ]
   },
   "publicPath": "http://localhost:8080/",
-  "error": "ESLintError",
-  "message": "[eslint] \n/home/julio/Documentos/github/Refugio-mascota-api/vue3/src/router/index.ts\n  6:1  error  More than 1 blank line not allowed  no-multiple-empty-lines\n\n✖ 1 problem (1 error, 0 warnings)\n  1 error and 0 warnings potentially fixable with the `--fix` option.\n"
+  "error": "Error",
+  "message": "[tsl] ERROR in /home/julio/Documentos/github/Refugio-mascota-api/vue3/src/components/MascotaList.vue.ts(34,1)\n      TS1128: Declaration or statement expected."
 }

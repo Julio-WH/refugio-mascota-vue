@@ -5,8 +5,9 @@ from rest_framework import authentication, permissions
 from rest_framework.views import APIView
 from rest_framework.response import Response
 
-from app.API.serializers import MascotasSerializer, PersonaSerializer
-from app.mascota.models import Mascota
+from app.API.serializers import MascotasSerializer, PersonaSerializer, VacunaSerializer, PersonaSerializer
+from app.mascota.models import Mascota, Vacuna
+from app.adopcion.models import Persona
 
 
 class ListMascotas(APIView):
@@ -20,13 +21,24 @@ class ListMascotas(APIView):
         return Response(mascotas_json.data)
 
     def post(self, request):
+        print(request.data)
         mascotas_json = MascotasSerializer(data=request.data)  # UnMarshall
         if mascotas_json.is_valid():
             mascotas_json.save()
             return Response(mascotas_json.data, status=status.HTTP_201_CREATED)
         return Response(mascotas_json.errors, status=status.HTTP_400_BAD_REQUEST)
 
+class ListVacunas(APIView):
+    def get(self, request):
+        vacunas = Vacuna.objects.all()
+        vacunas_json = VacunaSerializer(vacunas, many=True)
+        return Response(vacunas_json.data)
 
+class ListPersonas(APIView):
+    def get(self, request):
+        personas = Persona.objects.all()
+        persona_json = PersonaSerializer(personas, many=True)
+        return Response(persona_json.data)
 class DetalleMascota(APIView):
 
     # authentication_classes = [authentication.SessionAuthentication]

@@ -1,9 +1,8 @@
 <template>
-  <div class="col-sm-3">
     <div class="card">
       <img
         class="card-img-top"
-        :alt="altImage"
+        alt="imagen de gato"
         src="https://cdn2.thecatapi.com/images/7ce.jpg">
       <div class="card-body">
         <h5 class="card-title text-center">{{ mascota.nombre }}</h5>
@@ -29,14 +28,8 @@
         <div v-else>
           <span>No tiene ninguna vacuna</span>
         </div>
-        <div class="card-footer">
-          <a href="#" type="button" class="btn btn-outline-danger">Eliminar</a>
-          <a href="#" type="button" class="btn btn-outline-primary">Editar</a>
-          <a href="#" type="button" class="btn btn-outline-secondary">Detalle</a>
-        </div>
       </div>
     </div>
-  </div>
 </template>
 
 <script lang="ts">
