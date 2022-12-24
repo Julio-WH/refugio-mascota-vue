@@ -2,6 +2,12 @@
   <div class="container">
     <div class="row g-0 text-center">
   <h1 class="text-center">{{computedTitle}} Mascota</h1>
+  <AlertComponent
+    v-if="alert != null"
+    :show="alert.show"
+    :variant="alert.variant"
+    :message="alert.message"
+  />
   <div class="col-sm-12 col-md-8">
     <MascotaCards
     :mascota="computedMascota"
@@ -63,10 +69,12 @@
 import { Component, Prop, Vue } from 'vue-property-decorator';
 import axios from 'axios';
 import MascotaCards from './MascotaCards.vue';
+import AlertComponent from './Alert.vue';
 
 @Component({
   components: {
     MascotaCards,
+    AlertComponent,
   },
 })
 
@@ -163,6 +171,10 @@ export default class MascotaForm extends Vue {
     });
     // eslint-disable-next-line camelcase
     return vacunas_selected;
+  }
+
+  alert() {
+    return this.$store.state.alert;
   }
 
   async fetchListVacunas() {
