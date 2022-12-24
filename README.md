@@ -1,4 +1,4 @@
-# Refugio
+# Refugio con VUEJS
 Aplicacion CRUD de prueba, Refugio de animales
 
 ## Instalacion
