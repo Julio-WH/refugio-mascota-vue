@@ -1,15 +1,31 @@
 <template>
-  <div class="alert alert-success alert-dismissible fade show" role="alert">
-      <strong>Holy guacamole!</strong> You should check in on some of those fields below.
-      <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+  <div :class="classAlert" role="alert">
+      {{message}}
+      <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"
+              @click="closeAlert"></button>
   </div>
 </template>
 
 <script lang="ts">
-import { Vue, Prop } from 'vue-property-decorator';
+import { Component, Vue, Prop } from 'vue-property-decorator';
 
-export default class MascotaForm extends Vue {
+@Component
+export default class Alert extends Vue {
+  @Prop() private variant!: string;
 
+  @Prop() private message!: string;
+
+  beforeDestroy() {
+    this.$store.dispatch('removeAlert', { root: true });
+  }
+
+  get classAlert() {
+    return `alert alert-${this.variant} alert-dismissible fade show`;
+  }
+
+  closeAlert() {
+    this.$store.dispatch('removeAlert', { root: true });
+  }
 }
 </script>
 

@@ -16,7 +16,7 @@ class ListMascotas(APIView):
     # permission_classes = [permissions.IsAdminUser]
 
     def get(self, request):
-        mascotas = Mascota.objects.all().order_by("-fecha_rescate")
+        mascotas = Mascota.objects.all().select_related('persona').prefetch_related('vacuna').order_by("-fecha_rescate")
         mascotas_json = MascotasSerializer(mascotas, many=True)
         return Response(mascotas_json.data)
 

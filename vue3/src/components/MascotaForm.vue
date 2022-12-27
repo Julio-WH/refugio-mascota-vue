@@ -4,7 +4,6 @@
   <h1 class="text-center">{{computedTitle}} Mascota</h1>
   <AlertComponent
     v-if="alert != null"
-    :show="alert.show"
     :variant="alert.variant"
     :message="alert.message"
   />
@@ -67,7 +66,7 @@
 
 <script lang="ts">
 import { Component, Prop, Vue } from 'vue-property-decorator';
-import axios from 'axios';
+import axios, { AxiosError } from 'axios';
 import MascotaCards from './MascotaCards.vue';
 import AlertComponent from './Alert.vue';
 
@@ -117,7 +116,11 @@ export default class MascotaForm extends Vue {
       this.persona = data.persona.id;
       this.listaVacunas = this.vacunasSeleccionadas(data.vacuna);
     } catch (e) {
-      console.error(e);
+      const alert = {
+        message: 'No se encontro la mascota',
+        variant: 'danger',
+      };
+      this.$store.dispatch('addAlert', alert, { root: true });
     }
   }
 
@@ -173,7 +176,7 @@ export default class MascotaForm extends Vue {
     return vacunas_selected;
   }
 
-  alert() {
+  get alert() {
     return this.$store.state.alert;
   }
 
@@ -229,9 +232,20 @@ export default class MascotaForm extends Vue {
         persona: this.persona,
         vacuna: this.vacunas,
       });
-      console.log(response.request);
+
+      if (response.request.status === 201) {
+        const alert = {
+          message: `Se agrego correctamente la mascota ${this.nombre}`,
+          variant: 'success',
+        };
+        this.$store.dispatch('addAlert', alert, { root: true });
+      }
     } catch (e) {
-      console.error(e);
+      const alert = {
+        message: 'No se pudó agregar la mascota',
+        variant: 'danger',
+      };
+      this.$store.dispatch('addAlert', alert, { root: true });
     }
   }
 
@@ -246,8 +260,19 @@ export default class MascotaForm extends Vue {
         persona: this.persona,
         vacuna: this.vacunas,
       });
+      if (response.request.status === 200) {
+        const alert = {
+          message: `Se editó correctamente la mascota ${this.nombre}`,
+          variant: 'success',
+        };
+        this.$store.dispatch('addAlert', alert, { root: true });
+      }
     } catch (e) {
-      console.error(e);
+      const alert = {
+        message: 'No se pudó editar la mascota',
+        variant: 'danger',
+      };
+      this.$store.dispatch('addAlert', alert, { root: true });
     }
   }
 }
