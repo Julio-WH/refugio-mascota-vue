@@ -40,6 +40,7 @@
           <option v-for="{id, nombre } in listaPersonas"
                     :key="`${nombre}-${id}`"
                     :value="id">{{nombre}}</option>
+          <option v-if="loading_personas">Cargando las opciones...</option>
         </select>
       </p>
       <p>
@@ -50,6 +51,7 @@
                     :value="id"
                     :selected="status_select"
           >{{nombre}}</option>
+          <option v-if="loading_vacunas">Cargando las opciones...</option>
         </select>
       </p>
     </div>
@@ -95,6 +97,12 @@ export default class MascotaForm extends Vue {
   persona= '';
 
   vacunas= [0];
+
+  // eslint-disable-next-line camelcase
+  loading_vacunas = true;
+
+  // eslint-disable-next-line camelcase
+  loading_personas = true;
 
   mounted() {
     this.fetchListPersonas();
@@ -160,6 +168,7 @@ export default class MascotaForm extends Vue {
   }
 
   vacunasSeleccionadasCard() {
+    // return this.listaVacunas.filter(({ id }) => this.vacunas.includes(id)); Más Optimizado
     // eslint-disable-next-line camelcase
     const vacunas_selected: any[] = [];
     // eslint-disable-next-line array-callback-return,camelcase
@@ -170,7 +179,9 @@ export default class MascotaForm extends Vue {
         const vacuna = JSON.parse(JSON.stringify(ele));
         return vacuna.id === element;
       });
-      vacunas_selected.push(filtered);
+      if (filtered) {
+        vacunas_selected.push(filtered);
+      }
     });
     // eslint-disable-next-line camelcase
     return vacunas_selected;
@@ -183,12 +194,14 @@ export default class MascotaForm extends Vue {
   async fetchListVacunas() {
     const response = await axios.get('/api/apiview/vacunas');
     this.listaVacunas = response.data;
+    this.loading_vacunas = false;
   }
 
   async fetchListPersonas() {
     try {
       const response = await axios.get('/api/apiview/personas');
       this.listaPersonas = response.data;
+      this.loading_personas = false;
     } catch (e) {
       console.error(e);
     }
@@ -217,6 +230,15 @@ export default class MascotaForm extends Vue {
     };
   }
 
+  resetForm() {
+    this.nombre = '';
+    this.sexo = '';
+    this.edad = 0;
+    this.fechaRescate = '';
+    this.persona = '';
+    this.vacunas = [0];
+  }
+
   submit() {
     return !this.id ? this.submitAdd() : this.submitEdit();
   }
@@ -238,6 +260,7 @@ export default class MascotaForm extends Vue {
           message: `Se agrego correctamente la mascota ${this.nombre}`,
           variant: 'success',
         };
+        this.resetForm();
         this.$store.dispatch('addAlert', alert, { root: true });
       }
     } catch (e) {
@@ -249,7 +272,6 @@ export default class MascotaForm extends Vue {
     }
   }
 
-  // eslint-disable-next-line class-methods-use-this
   async submitEdit() {
     try {
       const response = await axios.put(`/api/apiview/detalle/${this.id}/`, {
